@@ -1,4 +1,9 @@
-header{
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho{
     background-color: #0d627d;
     color: white;
     display: flex;
